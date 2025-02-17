@@ -21,3 +21,4 @@ Images as output by your model to show that it produces reasonable predictions. 
 
 - Your _train()_ method must save the trained model (note hw1_n.pt). Do not forget to add these trained models to the project. 
 - Your _test()_ method must load this saved model (hw1_n.pt) to run on a novel input.
+- You can add necessary files/folders as you need.

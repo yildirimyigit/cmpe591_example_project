@@ -14,7 +14,8 @@ Part 3:
 
 Insert the loss plot to show the convergence
 
-An image as output by your model. Here is an *example*:
+Images as output by your model to show that it produces reasonable predictions. Here is an *example*:
+![output](https://github.com/user-attachments/assets/bed9b60a-a320-479d-a766-2a5d612e2b02)
 
 
 
